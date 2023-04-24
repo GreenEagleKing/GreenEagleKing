@@ -13,16 +13,16 @@
 
 ## :man_technologist: About Me :
 
-I am a Full Stack Developer from London. Creating and improving people’s lives through elegant design and smooth functionality. My goal is to have the user enjoy the experience as much as I do creating it.
+I am a critical thinking, user centric software engineer, improving people’s lives through intuitive design and smooth functionality. My goal is for the user to enjoy the experience as much as I do creating it.
 
-See my [website](https://benkingsoftwareengineer.netlify.app/) for more.
+### See my [website](https://benkingsoftwareengineer.netlify.app/) for more.
 
 <h2 align="center" > Projects :</h2>
 
 |||
 |:-------------------------:|:-------------------------:|
-|<h3>The Thirsty Cocktail</h3> <img width="400px" height="200px" align="center" alt="thirsty cocktail gif" src="https://github.com/GreenEagleKing/the-thirsty-cocktail/blob/main/img/cocktail-showcase.gif?raw=true"><p>&nbsp;</p><p>Welcome to The Thirsty Cocktail, a bar open 24/hrs a day to help you choose a new exciting cocktail. You can input your alcohol of choice and then move through the catalogue of drinks in that category.<br> <h4>Tech used: HTML, CSS, JavaScript, Cocktail API</h4> <p/>|<h3>Curiosity Rover Mars Explorer</h3> <img width="400px" height="200px" alt="" src="https://github.com/GreenEagleKing/nasa-rover/raw/main/curiosity-rover-gif"><p>&nbsp;</p><p>You can choose a day on mars and you will receive all the photos from 3 different camera positions on the rover. You can then carousel through the images. Exploring the various different landscapes from the day of landing to the current day.<p/><h4>Tech used: HTML, CSS, JavaScript, NASA API</h4>
-|<h3>FabPad</h3><img width="400px" height="200px" align="center" alt="fabpage website gif" src="https://github.com/GreenEagleKing/100hrs-project/blob/main/public/imgs/forGithub/fabpad-gif.gif?raw=true"><p>&nbsp;</p><p> A fullstack web application for users to login, add, like and download products.<p/> <h4>Tech used: HTML, CSS, JavaScript, Node.JS, Tailwind, EJS</h4>|<h3>Daily Quiz App</h3><img width="400" height="200px" alt="" src="https://github.com/GreenEagleKing/react-quiz/blob/main/public/react-quiz.gif?raw=true"><p>&nbsp;</p><p>Test your general knowledge daily with 5 multiple choice questions. Learn 5 a day, keep the chasers away!</p><h4>Tech used:HTML, CSS, JavaScript, React</h4>|
+|<h3>FabPad</h3><img width="400px" height="200px" align="center" alt="fabpage website gif" src="https://github.com/GreenEagleKing/100hrs-project/blob/main/public/imgs/forGithub/fabpad-gif.gif?raw=true"><p>&nbsp;</p><p> A fullstack web application for users to login, add, like and download products.</p> <h4>Tech used: HTML, CSS, JavaScript, Node.JS, Tailwind, EJS</h4>|<h3>What3Words Password Recovery</h3><img width="400px" height="200px" align="center" alt="" src="https://github.com/GreenEagleKing/portfolio-website-BK/blob/main/images/w3w-showcase.gif"><p>&nbsp;</p><p>The What3Words Password Recovery app allows users to recover their password using map locations.</p><h4>Tech used:HTML, CSS, JavaScript, React</h4>
+|<h3>The Thirsty Cocktail</h3> <img width="400px" height="200px" align="center" alt="thirsty cocktail gif" src="https://github.com/GreenEagleKing/the-thirsty-cocktail/blob/main/img/cocktail-showcase.gif?raw=true"><p>&nbsp;</p><p>Welcome to The Thirsty Cocktail, a bar open 24/hrs a day to help you choose a new exciting cocktail. You can input your alcohol of choice and then move through the catalogue of drinks in that category.<br> <h4>Tech used: HTML, CSS, JavaScript, Cocktail API</h4></p>|<h3>Curiosity Rover Mars Explorer</h3><img width="400px" height="200px" align="center" alt="" src="https://github.com/GreenEagleKing/nasa-rover/raw/main/curiosity-rover-gif"><p>&nbsp;</p><p>You can choose a day on mars and you will receive all the photos from 3 different camera positions on the rover. You can then carousel through the images. Exploring the various different landscapes from the day of landing to the current day.<p/> <h4>Tech used: HTML, CSS, JavaScript, NASA API</h4>|
 
 ### :hammer_and_wrench: Languages and Tools :
 
